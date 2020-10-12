@@ -68,7 +68,10 @@ ul{background-color:rgb(173, 135, 222);}
 @media only screen and (max-width: 600px) {
   body {
     background-color: lightblue;
-  }
+    color: rgb(255, 115, 0);
+    font-size: 40px;
+    line-height: 100%;
+}
 }
 
 
